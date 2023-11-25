@@ -36,3 +36,8 @@
 Это не яблоко
 ![картинка](new.png)
 
+ git pull - выгрузка с сайта
+
+ git push - загрузка на сайт
+
+ git rebase --continue  
